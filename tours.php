@@ -147,6 +147,7 @@
                             <p>Day tours</p>
                         </div>
 
+                        <!-- For the logic with PHP to get the necesary data from the TourCMS API -->
                         <?php include 'logic.php' ?>
 
                         <style>
